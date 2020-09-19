@@ -1,0 +1,21 @@
+C:\Users\eliana.pereira\Desktop\Euromilhões\Euromilhões\bin\Debug\Euromilhões.exe.config
+C:\Users\eliana.pereira\Desktop\Euromilhões\Euromilhões\bin\Debug\Euromilhões.exe
+C:\Users\eliana.pereira\Desktop\Euromilhões\Euromilhões\bin\Debug\Euromilhões.pdb
+C:\Users\eliana.pereira\Desktop\Euromilhões\Euromilhões\obj\Debug\Euromilhões.csprojAssemblyReference.cache
+C:\Users\eliana.pereira\Desktop\Euromilhões\Euromilhões\obj\Debug\Euromilhões.csproj.CoreCompileInputs.cache
+C:\Users\eliana.pereira\Desktop\Euromilhões\Euromilhões\obj\Debug\Euromilhões.exe
+C:\Users\eliana.pereira\Desktop\Euromilhões\Euromilhões\obj\Debug\Euromilhões.pdb
+C:\Users\eliana.pereira\Desktop\C# Aprog\Euromilhões\Euromilhões\bin\Debug\Euromilhões.exe.config
+C:\Users\eliana.pereira\Desktop\C# Aprog\Euromilhões\Euromilhões\bin\Debug\Euromilhões.exe
+C:\Users\eliana.pereira\Desktop\C# Aprog\Euromilhões\Euromilhões\bin\Debug\Euromilhões.pdb
+C:\Users\eliana.pereira\Desktop\C# Aprog\Euromilhões\Euromilhões\obj\Debug\Euromilhões.csprojAssemblyReference.cache
+C:\Users\eliana.pereira\Desktop\C# Aprog\Euromilhões\Euromilhões\obj\Debug\Euromilhões.csproj.CoreCompileInputs.cache
+C:\Users\eliana.pereira\Desktop\C# Aprog\Euromilhões\Euromilhões\obj\Debug\Euromilhões.exe
+C:\Users\eliana.pereira\Desktop\C# Aprog\Euromilhões\Euromilhões\obj\Debug\Euromilhões.pdb
+C:\Users\eliana.pereira\Desktop\CESAE\C# Aprog\Euromilhões\Euromilhões\bin\Debug\Euromilhões.exe.config
+C:\Users\eliana.pereira\Desktop\CESAE\C# Aprog\Euromilhões\Euromilhões\bin\Debug\Euromilhões.exe
+C:\Users\eliana.pereira\Desktop\CESAE\C# Aprog\Euromilhões\Euromilhões\bin\Debug\Euromilhões.pdb
+C:\Users\eliana.pereira\Desktop\CESAE\C# Aprog\Euromilhões\Euromilhões\obj\Debug\Euromilhões.csprojAssemblyReference.cache
+C:\Users\eliana.pereira\Desktop\CESAE\C# Aprog\Euromilhões\Euromilhões\obj\Debug\Euromilhões.csproj.CoreCompileInputs.cache
+C:\Users\eliana.pereira\Desktop\CESAE\C# Aprog\Euromilhões\Euromilhões\obj\Debug\Euromilhões.exe
+C:\Users\eliana.pereira\Desktop\CESAE\C# Aprog\Euromilhões\Euromilhões\obj\Debug\Euromilhões.pdb
